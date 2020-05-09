@@ -64,11 +64,6 @@
                                             <value>COVEREDRATIO</value>
                                             <minimum>1</minimum>
                                         </limit>
-                                        <limit>
-                                            <counter>CLASS</counter>
-                                            <value>MISSEDCOUNT</value>
-                                            <maximum>0</maximum>
-                                        </limit>
                                     </limits>
                                 </rule>
                             </rules>
